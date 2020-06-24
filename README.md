@@ -9,4 +9,4 @@ An android app that uses an webscrapping algorithm to view new memes
 
 
 ### source
-......... uses r/Memes to grab and view memes
+......... uses r/Memes to grab and view memes. ..
